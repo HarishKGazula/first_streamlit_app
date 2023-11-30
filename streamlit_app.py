@@ -71,6 +71,7 @@ if streamlit.button('Add a Fruit to the list'):
 
 
 streamlit.stop()
+streamlit.stop()
 
 #import snowflake.connector
 
